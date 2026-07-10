@@ -1,16 +1,87 @@
-## Hi there 👋
+Chinmay Ghogale
+────────────────────────────────────────
 
-<!--
-**chinmay655/chinmay655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Chinmay Ghogale
 
-Here are some ideas to get you started:
+Software Engineer | Python Backend Developer
+Full Stack Developer | Open Source Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Mumbai, India
+
+🎓 B.Sc. Information Technology
+CGPA: 9.5
+
+💼 Former Data Research Intern @ LabelNest
+
+🌐 [Portfolio](https://chinmay655.github.io/chinmayghogale.github.io/)
+💼 www.linkedin.com/in/c-ghogale
+📧 ghogalechinmay00@gmail.com
+
+────────────────────────────────────────
+
+Current Focus
+
+✓ Backend Development
+✓ REST APIs
+✓ Flask
+✓ Django
+✓ React
+✓ SQL
+✓ AWS
+
+────────────────────────────────────────
+
+Tech Stack
+
+Python
+JavaScript
+Flask
+Django
+React
+HTML
+CSS
+MySQL
+SQLite
+Git
+AWS
+Power BI
+Pandas
+NumPy
+
+────────────────────────────────────────
+
+Featured Projects
+
+🚀 AI Product Trend Predictor
+
+📚 Library Management System
+
+💰 Personal Finance Dashboard
+
+🖱️ Virtual Mouse
+
+🌐 Portfolio Website
+
+────────────────────────────────────────
+
+GitHub Stats
+
+Contribution Graph
+
+Most Used Languages
+
+Profile Views
+
+────────────────────────────────────────
+
+Currently Learning
+
+Docker
+
+FastAPI
+
+CI/CD
+
+AWS
+
+System Design
