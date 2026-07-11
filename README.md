@@ -114,3 +114,320 @@ Currently, I'm focused on strengthening my expertise in **Python, Flask, REST AP
 ### 💜 *"Building clean backend systems, learning every day, and contributing one step at a time."*
 
 </div>
+---
+
+# 🚀 Featured Projects
+
+<details open>
+<summary><h3>🤖 AI Product Trend Predictor</h3></summary>
+
+### Overview
+
+An AI-powered web application that analyzes product reviews, performs sentiment analysis, predicts product trends, and presents interactive insights through modern dashboards.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Python • Flask • React • Tailwind CSS • TextBlob |
+| **Architecture** | Full Stack Web Application |
+| **Highlights** | Sentiment Analysis • Trend Prediction • Interactive Dashboard |
+| **Repository** | 🔗 Add Repository Link |
+
+### Key Features
+
+- AI-powered sentiment analysis
+- Product trend prediction
+- Interactive analytics dashboard
+- Modern responsive UI
+- REST API integration
+
+</details>
+
+---
+
+<details>
+<summary><h3>📚 Library Management System</h3></summary>
+
+### Overview
+
+A role-based Library Management System designed to streamline book management, authentication, issue/return workflow, and administrative operations.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Python • Flask • SQLite • HTML • CSS • Bootstrap |
+| **Architecture** | Full Stack Web Application |
+| **Highlights** | Authentication • Admin Dashboard • Book Issue & Return |
+| **Repository** | 🔗 Add Repository Link |
+
+### Key Features
+
+- Role-based authentication
+- Book issue & return system
+- Search functionality
+- Admin dashboard
+- Database integration
+
+</details>
+
+---
+
+<details>
+<summary><h3>💰 Personal Finance Dashboard</h3></summary>
+
+### Overview
+
+A finance dashboard that helps users track expenses, income, savings, and visualize financial performance with interactive charts.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Python • Flask • JavaScript • Chart.js |
+| **Architecture** | Dashboard Application |
+| **Highlights** | Expense Tracking • Charts • Financial Insights |
+| **Repository** | 🔗 Add Repository Link |
+
+### Key Features
+
+- Expense management
+- Income tracking
+- Interactive charts
+- Financial overview
+- Clean dashboard UI
+
+</details>
+
+---
+
+<details>
+<summary><h3>🖱 Gesture Controlled Mouse</h3></summary>
+
+### Overview
+
+A computer vision application that enables mouse control using hand gestures through a webcam.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Python • OpenCV • MediaPipe • PyAutoGUI |
+| **Architecture** | Computer Vision |
+| **Highlights** | Hand Tracking • Gesture Recognition • Automation |
+| **Repository** | 🔗 Add Repository Link |
+
+### Key Features
+
+- Real-time hand tracking
+- Gesture recognition
+- Cursor movement
+- Click actions
+- Smooth interaction
+
+</details>
+
+---
+
+<details>
+<summary><h3>📄 PDF to Text Converter</h3></summary>
+
+### Overview
+
+A lightweight Python utility for extracting text from PDF documents quickly and efficiently.
+
+| Category | Details |
+|-----------|---------|
+| **Stack** | Python |
+| **Architecture** | Utility Tool |
+| **Highlights** | Fast Extraction • Simple Interface |
+| **Repository** | 🔗 Add Repository Link |
+
+### Key Features
+
+- Extract text from PDFs
+- Lightweight utility
+- Easy to use
+- Fast processing
+
+</details>
+
+---
+---
+
+# 🌍 Open Source Journey
+
+I'm passionate about learning by building and contributing to real-world software.
+
+Recently, I started my Open Source journey by exploring the **Flask-RESTX** project, where I:
+
+- Investigated an open GitHub issue.
+- Traced the execution flow through the source code.
+- Wrote a regression test to reproduce the reported behavior.
+- Shared my findings while learning the open-source contribution workflow.
+
+I'm excited to continue contributing to open source, learning from maintainers, and collaborating with the developer community.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmay655&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay655&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=chinmay655&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=chinmay655&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay655&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Development Activity
+
+```text
+🐍 Python           ████████████████████████
+🌐 Flask            ██████████████████████
+⚡ JavaScript       ████████████████
+🗄 SQL              ███████████████
+🤝 Open Source      ██████████
+📊 Data Analytics   ████████████
+```
+
+---
+
+# 📌 Current Focus
+
+```yaml
+learning:
+  - Backend Engineering
+  - Open Source Contributions
+  - Data Structures & Algorithms
+  - Data Analytics
+
+building:
+  - Flask Applications
+  - Python Backend Projects
+  - Personal Finance Dashboard
+
+exploring:
+  - Software Architecture
+  - API Design
+  - Modern Backend Development
+
+open_to:
+  - Backend Developer Roles
+  - Python Developer Roles
+  - Software Engineer Roles
+  - Open Source Collaboration
+```
+
+---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/chinmay655/chinmay655/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/chinmay655/chinmay655/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/chinmay655/chinmay655/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/chinmay655">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💡 Philosophy
+
+<div align="center">
+
+> **"Great software isn't built by writing more code. It's built by understanding problems, creating simple solutions, and continuously learning."**
+
+</div>
+
+---
+
+# 📌 Currently
+
+```text
+🚀 Building Python Backend Applications
+
+🌱 Learning Open Source Development
+
+📚 Solving DSA using Python
+
+🤝 Looking for Backend Developer Opportunities
+
+💜 Always Learning Something New
+```
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
+
+</div>
