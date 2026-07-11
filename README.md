@@ -24,15 +24,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/your-linkedin-username">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://chinmay655.github.io/chinmayghogale.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="ghogalechinmay00@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -219,33 +219,6 @@ A computer vision application that enables mouse control using hand gestures thr
 - Smooth interaction
 
 </details>
-
----
-
-<details>
-<summary><h3>📄 PDF to Text Converter</h3></summary>
-
-### Overview
-
-A lightweight Python utility for extracting text from PDF documents quickly and efficiently.
-
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python |
-| **Architecture** | Utility Tool |
-| **Highlights** | Fast Extraction • Simple Interface |
-| **Repository** | 🔗 Add Repository Link |
-
-### Key Features
-
-- Extract text from PDFs
-- Lightweight utility
-- Easy to use
-- Fast processing
-
-</details>
-
----
 ---
 
 # 🌍 Open Source Journey
@@ -285,23 +258,8 @@ I'm excited to continue contributing to open source, learning from maintainers, 
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chinmay655&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
 
 ---
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay655&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -376,15 +334,15 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/your-linkedin-username">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://chinmay655.github.io/chinmayghogale.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href=ghogalechinmay00@gmail.com>
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
