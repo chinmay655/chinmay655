@@ -235,18 +235,6 @@ I'm excited to continue contributing to open source, learning from maintainers, 
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chinmay655&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay655&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
