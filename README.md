@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Full+Stack+Developer;Building+Real-World+Projects+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Full+Stack+Developer;Building+Real-World+Projects+🚀" alt="Typing SVG"/>
 
 <br><br>
 
@@ -21,19 +21,20 @@
 <img src="https://img.shields.io/github/stars/chinmay655?affiliations=OWNER&style=flat-square&color=6C63FF"/>
 
 <br><br>
+
 <a href="https://github.com/chinmay655">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/c-ghogale">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://chinmay655.github.io/chinmayghogale.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="ghogalechinmay00@gmail.com">
+<a href="mailto:ghogalechinmay00@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
