@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Data+Analyst;Open+Source+Learner;Full+Stack+Developer;Building+Scalable+Applications" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Data+Analyst;Open+Source+Learner;Full+Stack+Developer;Building+Scalable+Applications+🚀" alt="Typing SVG" />
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Data Analyst;Open+Source+Learner;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
