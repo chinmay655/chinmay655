@@ -1,10 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Chinmay%20Ghogale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=58"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Full+Stack+Developer;Building+Real-World+Projects+🚀" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Data+Analytics+Enthusiast;Open+Source+Learner;Full+Stack+Developer;Building+Real-World+Projects" alt="Typing SVG">
+</p>
 
 <br><br>
 
