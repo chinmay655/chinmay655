@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24,30&text=Chinmay%20Ghogale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20Open%20Source%20Learner&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Open+Source+Learner;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Data Analyst;Open+Source+Learner;Full+Stack+Developer;AI+%26+Data+Analytics+Enthusiast;Building+Scalable+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br>
 
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-username">
+<a href="www.linkedin.com/in/c-ghogale">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -42,7 +42,7 @@
 
 # 👋 About Me
 
-I'm **Chinmay Ghogale**, a **Python Backend Developer** passionate about building scalable backend applications, REST APIs, and solving real-world problems through code.
+I'm **Chinmay Ghogale**, a **Backend Developer** passionate about building scalable backend applications, REST APIs, and solving real-world problems through code.
 
 I enjoy working on backend development, exploring AI-powered applications, and continuously improving my software engineering skills by building practical projects and contributing to Open Source.
 
@@ -130,7 +130,7 @@ An AI-powered web application that analyzes product reviews, performs sentiment 
 | **Stack** | Python • Flask • React • Tailwind CSS • TextBlob |
 | **Architecture** | Full Stack Web Application |
 | **Highlights** | Sentiment Analysis • Trend Prediction • Interactive Dashboard |
-| **Repository** | 🔗 Add Repository Link |
+| **Repository** | [🔗 Add Repository Link](https://github.com/chinmay655/AI-Product-Trend-Predictor) |
 
 ### Key Features
 
@@ -156,7 +156,7 @@ A role-based Library Management System designed to streamline book management, a
 | **Stack** | Python • Flask • SQLite • HTML • CSS • Bootstrap |
 | **Architecture** | Full Stack Web Application |
 | **Highlights** | Authentication • Admin Dashboard • Book Issue & Return |
-| **Repository** | 🔗 Add Repository Link |
+| **Repository** | [🔗 Add Repository Link](https://github.com/chinmay655/Managment-for-library) |
 
 ### Key Features
 
@@ -208,7 +208,7 @@ A computer vision application that enables mouse control using hand gestures thr
 | **Stack** | Python • OpenCV • MediaPipe • PyAutoGUI |
 | **Architecture** | Computer Vision |
 | **Highlights** | Hand Tracking • Gesture Recognition • Automation |
-| **Repository** | 🔗 Add Repository Link |
+| **Repository** | [🔗 Add Repository Link ](https://github.com/chinmay655/GestureControlled_Mouse)|
 
 ### Key Features
 
@@ -334,7 +334,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-username">
+<a href="www.linkedin.com/in/c-ghogale">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
