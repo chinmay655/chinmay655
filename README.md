@@ -129,7 +129,7 @@ An AI-powered web application that analyzes product reviews, performs sentiment 
 | **Stack** | Python • Flask • React • Tailwind CSS • TextBlob |
 | **Architecture** | Full Stack Web Application |
 | **Highlights** | Sentiment Analysis • Trend Prediction • Interactive Dashboard |
-| **Repository** | [🔗 Add Repository Link](https://github.com/chinmay655/AI-Product-Trend-Predictor) |
+| **Repository** | [🔗](https://github.com/chinmay655/AI-Product-Trend-Predictor) |
 
 ### Key Features
 
@@ -155,7 +155,7 @@ A role-based Library Management System designed to streamline book management, a
 | **Stack** | Python • Flask • SQLite • HTML • CSS • Bootstrap |
 | **Architecture** | Full Stack Web Application |
 | **Highlights** | Authentication • Admin Dashboard • Book Issue & Return |
-| **Repository** | [🔗 Add Repository Link](https://github.com/chinmay655/Managment-for-library) |
+| **Repository** | [🔗](https://github.com/chinmay655/Managment-for-library) |
 
 ### Key Features
 
@@ -168,28 +168,6 @@ A role-based Library Management System designed to streamline book management, a
 </details>
 
 ---
-
-<details>
-<summary><h3>💰 Personal Finance Dashboard</h3></summary>
-
-### Overview
-
-A finance dashboard that helps users track expenses, income, savings, and visualize financial performance with interactive charts.
-
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • Flask • JavaScript • Chart.js |
-| **Architecture** | Dashboard Application |
-| **Highlights** | Expense Tracking • Charts • Financial Insights |
-| **Repository** | 🔗 Add Repository Link |
-
-### Key Features
-
-- Expense management
-- Income tracking
-- Interactive charts
-- Financial overview
-- Clean dashboard UI
 
 </details>
 
@@ -207,7 +185,7 @@ A computer vision application that enables mouse control using hand gestures thr
 | **Stack** | Python • OpenCV • MediaPipe • PyAutoGUI |
 | **Architecture** | Computer Vision |
 | **Highlights** | Hand Tracking • Gesture Recognition • Automation |
-| **Repository** | [🔗 Add Repository Link ](https://github.com/chinmay655/GestureControlled_Mouse)|
+| **Repository** | [🔗](https://github.com/chinmay655/GestureControlled_Mouse)|
 
 ### Key Features
 
