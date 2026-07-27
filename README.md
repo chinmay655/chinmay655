@@ -1,102 +1,210 @@
-::: {align="center"}
-Hi 👋, I'm Chinmay Ghogale
-:::
+# 🚀 <div align="center">Chinmay Ghogale</div>
 
-::: {align="center"}
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Chinmay%20Ghogale&fontSize=48&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&color=0:6C63FF,100:3B82F6&fontColor=ffffff"/>`{=html}
+<div align="center">
 
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Software+Engineer"/>`{=html}
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Chinmay%20Ghogale&fontSize=50&fontAlignY=38&desc=Python%20Developer%20•%20Backend%20Developer%20•%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn&color=0:6C63FF,25:7C3AED,50:4F46E5,75:2563EB,100:06B6D4&fontColor=ffffff"/>
 
-`<a href="https://github.com/chinmay655">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://chinmay655.github.io/chinmayghogale.github.io/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="mailto:ghogalechinmay00@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-:::
+<br>
 
-------------------------------------------------------------------------
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New"/>
 
-## 👨‍💻 About Me
+<br><br>
 
-I'm a passionate Python developer focused on building scalable backend
-applications and modern full-stack solutions.
+<a href="https://github.com/chinmay655">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
--   🔭 Building real-world software projects
--   🌱 Learning Backend Development, DSA and System Design
--   💻 Interested in Python, FastAPI, Flask, React and Data Analytics
--   🎯 Seeking Software Engineer opportunities
+<a href="https://chinmay655.github.io/chinmayghogale.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-------------------------------------------------------------------------
+<a href="mailto:ghogalechinmay00@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 💻 Tech Stack
+</div>
 
-**Languages:** Python • JavaScript • SQL • HTML • CSS
+---
 
-**Frontend:** React • Tailwind CSS • Bootstrap
+# 👋 About Me
 
-**Backend:** FastAPI • Flask • REST APIs
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=chinmay655&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Databases:** MySQL • PostgreSQL • SQLite
+I'm a passionate **Python Developer** focused on building scalable backend applications and modern full-stack solutions.
 
-**Tools:** Git • GitHub • VS Code • Postman • Power BI
+I enjoy transforming ideas into practical software, continuously improving my development skills, and creating projects that solve real-world problems.
 
-------------------------------------------------------------------------
+### Currently
 
-## 🚀 Featured Projects
+- 🔭 Building real-world software projects
+- 🌱 Learning Backend Development, DSA & System Design
+- 💻 Exploring scalable APIs and Full Stack Development
+- 📊 Expanding my knowledge in Data Analytics
+- 🎯 Looking for Software Engineer opportunities
 
--   **CivicMind AI** -- AI-powered urban infrastructure platform.
--   **Library Management System** -- Flask + SQLAlchemy.
--   **AI Product Trend Predictor** -- React + Python analytics.
--   **Virtual Mouse** -- OpenCV + MediaPipe.
+<br clear="right"/>
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Analytics
+# 💻 Tech Stack
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=chinmay655&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay655&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay655&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
 
-------------------------------------------------------------------------
+### Languages
 
-## 🎯 Current Focus
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
 
-``` yaml
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🚧 CivicMind AI
+
+AI-powered Urban Infrastructure Management Platform.
+
+**Tech**
+
+React • FastAPI • PostgreSQL
+
+</td>
+
+<td width="50%">
+
+### 📚 Library Management System
+
+Modern Library Management Platform.
+
+**Tech**
+
+Flask • SQLAlchemy • SQLite
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 AI Product Trend Predictor
+
+Predict product trends using AI-powered sentiment analysis.
+
+**Tech**
+
+React • Flask • Python
+
+</td>
+
+<td width="50%">
+
+### 🖱 Virtual Mouse
+
+Control your computer using hand gestures.
+
+**Tech**
+
+Python • OpenCV • MediaPipe
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=chinmay655&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay655&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay655&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
 learning:
   - Backend Development
   - Data Structures & Algorithms
   - System Design
+  - Data Analytics
 
 building:
   - CivicMind AI
-  - Full Stack Projects
+  - Full Stack Applications
+  - Backend APIs
 
 goal:
   - Software Engineer
 ```
 
-------------------------------------------------------------------------
+---
 
-## 🤝 Connect
+# 🌐 Connect With Me
 
--   📧 ghogalechinmay00@gmail.com
--   🌐 https://chinmay655.github.io/chinmayghogale.github.io/
--   🐙 https://github.com/chinmay655
+<div align="center">
 
-------------------------------------------------------------------------
+<a href="https://github.com/chinmay655">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-::: {align="center"}
-### ⭐ Thanks for visiting my profile!
+<a href="https://chinmay655.github.io/chinmayghogale.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
-`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:3B82F6"/>`{=html}
-:::
+<a href="mailto:ghogalechinmay00@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:4F46E5,100:06B6D4&height=2"/>
+
+### Thanks for visiting my profile! 👋
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:6C63FF,25:7C3AED,50:4F46E5,75:2563EB,100:06B6D4"/>
+
+</div>
