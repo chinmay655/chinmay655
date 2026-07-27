@@ -1,356 +1,104 @@
+\#
+
+::: {align="center"}
+Hi 👋, I'm Chinmay Ghogale
+:::
+
+::: {align="center"}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Chinmay%20Ghogale&fontSize=48&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&color=0:6C63FF,100:3B82F6&fontColor=ffffff"/>`{=html}
+
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Software+Engineer"/>`{=html}
+
+`<a href="https://github.com/chinmay655">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://chinmay655.github.io/chinmayghogale.github.io/">`{=html}`<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:ghogalechinmay00@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 👨‍💻 About Me
+
+I'm a passionate Python developer focused on building scalable backend
+applications and modern full-stack solutions.
+
+-   🔭 Building real-world software projects
+-   🌱 Learning Backend Development, DSA and System Design
+-   💻 Interested in Python, FastAPI, Flask, React and Data Analytics
+-   🎯 Seeking Software Engineer opportunities
+
+------------------------------------------------------------------------
+
+## 💻 Tech Stack
+
+**Languages:** Python • JavaScript • SQL • HTML • CSS
+
+**Frontend:** React • Tailwind CSS • Bootstrap
+
+**Backend:** FastAPI • Flask • REST APIs
+
+**Databases:** MySQL • PostgreSQL • SQLite
+
+**Tools:** Git • GitHub • VS Code • Postman • Power BI
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+-   **CivicMind AI** -- AI-powered urban infrastructure platform.
+-   **Library Management System** -- Flask + SQLAlchemy.
+-   **AI Product Trend Predictor** -- React + Python analytics.
+-   **Virtual Mouse** -- OpenCV + MediaPipe.
+
+------------------------------------------------------------------------
+
+## 📊 GitHub Analytics
+
+```{=html}
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python+Developer;Backend+Developer;Full+Stack+Developer;Data+Analytics+Enthusiast;Open+Source+Contributor" alt="Typing SVG"/>
-  
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=chinmay655&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinmay655&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-Backend%20Developer-6C63FF?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20Source-Learner-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-5B21B6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Data-Analytics-4F46E5?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Location-Mumbai,%20India-blueviolet?style=flat-square&logo=googlemaps&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=chinmay655&label=Profile%20Views&color=6C63FF&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/chinmay655?label=Followers&style=flat-square&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/chinmay655?affiliations=OWNER&style=flat-square&color=6C63FF"/>
-
-<br><br>
-
-<a href="https://github.com/chinmay655">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/c-ghogale/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://chinmay655.github.io/chinmayghogale.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:ghogalechinmay00@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👋 About Me
-
-I'm **Chinmay Ghogale**, a **Backend Developer** passionate about building scalable backend applications, REST APIs, and solving real-world problems through code.
-
-I enjoy working on backend development, exploring AI-powered applications, and continuously improving my software engineering skills by building practical projects and contributing to Open Source.
-
-Currently, I'm focused on strengthening my expertise in **Python, Flask, REST APIs, Data Analytics, and Open Source Development** while actively looking for opportunities as a **Backend Developer**, **Python Developer**, or **Software Engineer**.
-
----
-
-# 🚀 Open To
-
-- Backend Developer Roles
-- Python Developer Roles
-- Software Engineer Roles
-- Open Source Contributions
-- Freelance Backend Projects
-- Collaborating on Innovative Products
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
-
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=chinmay655&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
-### Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind"/>
-
-</p>
-
-### Backend & Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite"/>
-
-</p>
-
-### Tools & Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-</p>
-
-### Python Libraries
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/TextBlob-Python-blue?style=for-the-badge"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 💜 *"Building clean backend systems, learning every day, and contributing one step at a time."*
-
-</div>
----
-
-# 🚀 Featured Projects
-
-<details open>
-<summary><h3>🤖 AI Product Trend Predictor</h3></summary>
-
-### Overview
-
-An AI-powered web application that analyzes product reviews, performs sentiment analysis, predicts product trends, and presents interactive insights through modern dashboards.
-
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • Flask • React • Tailwind CSS • TextBlob |
-| **Architecture** | Full Stack Web Application |
-| **Highlights** | Sentiment Analysis • Trend Prediction • Interactive Dashboard |
-| **Repository** | [🔗](https://github.com/chinmay655/AI-Product-Trend-Predictor) |
-
-### Key Features
-
-- AI-powered sentiment analysis
-- Product trend prediction
-- Interactive analytics dashboard
-- Modern responsive UI
-- REST API integration
-
-</details>
-
----
-
-<details>
-<summary><h3>📚 Library Management System</h3></summary>
-
-### Overview
-
-A role-based Library Management System designed to streamline book management, authentication, issue/return workflow, and administrative operations.
-
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • Flask • SQLite • HTML • CSS • Bootstrap |
-| **Architecture** | Full Stack Web Application |
-| **Highlights** | Authentication • Admin Dashboard • Book Issue & Return |
-| **Repository** | [🔗](https://github.com/chinmay655/Managment-for-library) |
-
-### Key Features
-
-- Role-based authentication
-- Book issue & return system
-- Search functionality
-- Admin dashboard
-- Database integration
-
-</details>
-
----
-
-</details>
-
----
-
-<details>
-<summary><h3>🖱 Gesture Controlled Mouse</h3></summary>
-
-### Overview
-
-A computer vision application that enables mouse control using hand gestures through a webcam.
-
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • OpenCV • MediaPipe • PyAutoGUI |
-| **Architecture** | Computer Vision |
-| **Highlights** | Hand Tracking • Gesture Recognition • Automation |
-| **Repository** | [🔗](https://github.com/chinmay655/GestureControlled_Mouse)|
-
-### Key Features
-
-- Real-time hand tracking
-- Gesture recognition
-- Cursor movement
-- Click actions
-- Smooth interaction
-
-</details>
----
-
-# 🌍 Open Source Journey
-
-I'm passionate about learning by building and contributing to real-world software.
-
-Recently, I started my Open Source journey by exploring the **Flask-RESTX** project, where I:
-
-- Investigated an open GitHub issue.
-- Traced the execution flow through the source code.
-- Wrote a regression test to reproduce the reported behavior.
-- Shared my findings while learning the open-source contribution workflow.
-
-I'm excited to continue contributing to open source, learning from maintainers, and collaborating with the developer community.
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=chinmay655&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
----
-
----
-
-# 💻 Development Activity
-
-```text
-🐍 Python           ████████████████████████
-🌐 Flask            ██████████████████████
-⚡ JavaScript       ████████████████
-🗄 SQL              ███████████████
-🤝 Open Source      ██████████
-📊 Data Analytics   ████████████
 ```
 
----
+------------------------------------------------------------------------
 
-# 📌 Current Focus
+## 🎯 Current Focus
 
-```yaml
+``` yaml
 learning:
-  - Backend Engineering
-  - Open Source Contributions
+  - Backend Development
   - Data Structures & Algorithms
-  - Data Analytics
+  - System Design
 
 building:
-  - Flask Applications
-  - Python Backend Projects
-  - Personal Finance Dashboard
+  - CivicMind AI
+  - Full Stack Projects
 
-exploring:
-  - Software Architecture
-  - API Design
-  - Modern Backend Development
-
-open_to:
-  - Backend Developer Roles
-  - Python Developer Roles
-  - Software Engineer Roles
-  - Open Source Collaboration
+goal:
+  - Software Engineer
 ```
 
----
-# 🐍 Contribution Snake
+------------------------------------------------------------------------
 
-<div align="center">
+## 🤝 Connect
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/chinmay655/chinmay655/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/chinmay655/chinmay655/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/chinmay655/chinmay655/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+-   📧 ghogalechinmay00@gmail.com
+-   🌐 https://chinmay655.github.io/chinmayghogale.github.io/
+-   🐙 https://github.com/chinmay655
 
-</div>
+------------------------------------------------------------------------
 
----
+::: {align="center"}
+### ⭐ Thanks for visiting my profile!
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/chinmay655">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/c-ghogale">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://chinmay655.github.io/chinmayghogale.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href=ghogalechinmay00@gmail.com>
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💡 Philosophy
-
-<div align="center">
-
-> **"Great software isn't built by writing more code. It's built by understanding problems, creating simple solutions, and continuously learning."**
-
-</div>
-
----
-
-# 📌 Currently
-
-```text
-🚀 Building Python Backend Applications
-
-🌱 Learning Open Source Development
-
-📚 Solving DSA using Python
-
-🤝 Looking for Backend Developer Opportunities
-
-💜 Always Learning Something New
-```
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a star to my repositories!
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=6,12,20,24,30"/>
-
-</div>
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,100:3B82F6"/>`{=html}
+:::
